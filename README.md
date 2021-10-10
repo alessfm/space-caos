@@ -8,4 +8,4 @@
 **ℹ Info**
 ---
 
-It was my first attempt to make a game, _so the code is a bit old_, but I'm planning to fix it and upgrade to PyGame 2.0. **Stay tuned!**
+It was my first attempt to make a game, _so the code is a bit old_, but I'm planning to fix it and upgrade to PyGame 2.0 and Python 3.9.7. **Stay tuned!**
